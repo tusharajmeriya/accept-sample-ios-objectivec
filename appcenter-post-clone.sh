@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-# Example: Install App Center CLI
+cd accept-sample-objc.xcodeproj
 pod install
