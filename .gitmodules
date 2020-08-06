@@ -1,0 +1,3 @@
+[submodule "submodules/iOS-app-helloworld"]
+	path = submodules/iOS-app-helloworld
+	url = https://Infostretch-Dipen@github.com/tusharajmeriya/iOS-app-helloworld.git
